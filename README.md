@@ -1,4 +1,4 @@
-# ProyectosC
+# ProyectosC++
 
 Colección de programas en C++ desarrollados como práctica de estructuras de control, funciones, arreglos y menús interactivos por consola. El proyecto principal, **Plaza Neza**, integra varios módulos independientes (cajero automático, cine, restaurante y estacionamiento) en un solo menú, y se incluye además un juego de Gato (Tic-Tac-Toe) como programa aparte.
 
