@@ -1,7 +1,5 @@
 /*
-Mariam Ghise Juárez González
-Jennifer Escalona Galicia
-Jose Luis Alamilla Martinez
+Mariam Ghise Juï¿½rez Gonzï¿½lez
 */
 
 #include <iostream>
